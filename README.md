@@ -98,6 +98,6 @@ Here’s a snapshot of my contributions and activity:
 Let’s collaborate or chat about exciting projects!  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/christiaan-v-91b173226/?profileId=ACoAADie_GcBnDuyZSlmSzvQLkeXee4lc2mp5q8)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/ST10091991)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/ArmadilloV88)  
 
 ---
