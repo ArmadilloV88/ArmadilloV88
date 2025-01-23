@@ -39,6 +39,9 @@ Here's what I work with:
 ## 📂 Featured Projects  
 Here are some highlights of my work:  
 
+- [**Main Repository**](https://github.com/ArmadilloV88/BCA3A1)
+  This is my main Repository holding an entire Years work in different projects and assignments to showcase my skillset and work.
+
 - [**Equestrian Horse Riding**](https://github.com/ST10019838/Team-Quaternary_XBCAD7319)  
   A dynamic web based application specifically designed to aid an equestrian horse riding business in managing lessons and payments.
   **Tech Used:** Next.js, TypeScript, HTML, CSS, Supabase(PostgreSQL), Clerk
